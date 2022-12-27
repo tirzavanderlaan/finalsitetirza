@@ -1,0 +1,11 @@
+.player {
+	width: 300px;
+	height: 175px;
+}
+#achtergrond {
+	background-image: url("../images/background.jpg");
+	color: hotpink;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Bebas Neue', cursive;
+}
